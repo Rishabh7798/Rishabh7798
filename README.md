@@ -22,6 +22,8 @@ Welcome to my GitHub profile! I’m Rishabh, a final-year B.Tech student with a 
 - 🎯 Consistently solving problems on **LeetCode** and **GeeksforGeeks** to sharpen my programming skills.
 
 ## 🚀 Technologies & Tools
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -33,11 +35,18 @@ Welcome to my GitHub profile! I’m Rishabh, a final-year B.Tech student with a 
 ![IBM Watson](https://img.shields.io/badge/-IBM%20Watson-052FAD?style=flat-square&logo=ibm&logoColor=white)
 
 ## 🔥 Coding Streaks
-![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)
-![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-05CC47?style=flat-square&logo=geeksforgeeks&logoColor=white)
+<h2 align="center">Leetcode Info<h2>  
+<p align="center">
+  <a href="https://leetcode.com/Rishabh7798/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/Rishabh7798/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/Rishabh7798/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/Rishabh7798/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
+</p>
+<p align="center">
+    <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/its-nishant320?theme=dark&font=Nunito&ext=heatmap" />  
+</p>
 
 ## 📈 GitHub Stats
-![Rishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rishabh7798&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh7798&layout=compact&theme=radical)
 
 ## 📫 Let's Connect
