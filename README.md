@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I’m Rishabh, a final-year B.Tech student with a 
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![IBM Watson](https://img.shields.io/badge/-IBM%20Watson-052FAD?style=flat-square&logo=ibm&logoColor=white)
 
-<h2 align="center">🔥Leetcode Info🔥<h2>  
+## 🔥Leetcode Info🔥
 <p align="center">
   <a href="https://leetcode.com/Rishabh7798/" target="_blank"><img src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" alt="badge gif" cheight="200" width="200">
   <a href="https://leetcode.com/Rishabh7798/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="badge gif" height="200" width="200">
@@ -42,15 +42,22 @@ Welcome to my GitHub profile! I’m Rishabh, a final-year B.Tech student with a 
     <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/Rishabh7798?theme=dark&font=Nunito&ext=heatmap" />  
 </p>
 
-<h2 align="center">📈GitHub Stats📈<h2>  
+##📈GitHub Stats📈
 <div align=center>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh7798&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
   
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-giri-7798r/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:giririshabh98@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=html5&logoColor=white)](https://rishabh7798.github.io/Portfolio/)
+<p align="center">
+<a href="https://www.linkedin.com/in/rishabh-giri-7798r/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://mailto:giririshabh98@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://rishabh7798.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/Web-681DFF?style=for-the-badge&logo=web&logoColor=white" />
+</a>
 
 Thank you for visiting my profile! Let's build the future together!😊 Happy coding!😊
 
