@@ -59,7 +59,7 @@ Welcome to my GitHub profile! I’m Rishabh, a final-year B.Tech student with a 
   <a href="mailto:giririshabh98@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://https://rishabh7798.github.io/Portfolio/" target="_blank">
+  <a href="https://rishabh7798.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.instagram.com/rishabh.7798/" target="_blank">
