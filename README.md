@@ -53,13 +53,31 @@ Welcome to my GitHub profile! I’m Rishabh, a final-year B.Tech student with a 
 </div>
   
 ## 📫Let's Connect📫
-<h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/rishabh-giri-7798r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishabh-giri-7798r" height="30" width="40" /></a>
 <a href="https://instagram.com/rishabh.7798" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishabh.7798" height="30" width="40" /></a>
 <a href="https://rishabh7798.github.io/Portfolio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Web-alt.svg" alt="Portfolio" height="30" width="40" /></a>
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:giririshabh98@example.com)
 <a href="https://discord.gg/rishabh7798" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rishabh7798" height="30" width="40" /></a>
 </p>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/rishabh-giri-7798r/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:giririshabh98@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://https://rishabh7798.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.instagram.com/rishabh.7798/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://discordapp.com/users/rishabh7798" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</div>
 
 
 Thank you for visiting my profile! Let's build the future together!😊 Happy coding!😊
