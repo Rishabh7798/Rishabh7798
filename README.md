@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I’m Rishabh, a final-year B.Tech student with a 
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![IBM Watson](https://img.shields.io/badge/-IBM%20Watson-052FAD?style=flat-square&logo=ibm&logoColor=white)
 
-## 🔥Leetcode Info🔥
+## 🔥Coding Journey🔥
 <p align="center">
   <a href="https://leetcode.com/Rishabh7798/" target="_blank"><img src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" alt="badge gif" cheight="200" width="200">
   <a href="https://leetcode.com/Rishabh7798/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="badge gif" height="200" width="200">
@@ -42,7 +42,6 @@ Welcome to my GitHub profile! I’m Rishabh, a final-year B.Tech student with a 
     <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/Rishabh7798?theme=dark&font=Nunito&ext=heatmap" />  
 </p>
 <p align="center">
-<a href="https://codeforces.com/profile/giririshabh98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="giririshabh98" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rishabh7798" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rishabh7798" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/giririshabh98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="giririshabh98" height="30" width="40" /></a>
 </p>
@@ -53,14 +52,6 @@ Welcome to my GitHub profile! I’m Rishabh, a final-year B.Tech student with a 
 </div>
   
 ## 📫Let's Connect📫
-<p align="center">
-<a href="https://linkedin.com/in/rishabh-giri-7798r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishabh-giri-7798r" height="30" width="40" /></a>
-<a href="https://instagram.com/rishabh.7798" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishabh.7798" height="30" width="40" /></a>
-<a href="https://rishabh7798.github.io/Portfolio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Web-alt.svg" alt="Portfolio" height="30" width="40" /></a>
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:giririshabh98@example.com)
-<a href="https://discord.gg/rishabh7798" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rishabh7798" height="30" width="40" /></a>
-</p>
-
 <div align="center">
   <a href="https://www.linkedin.com/in/rishabh-giri-7798r/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -79,9 +70,9 @@ Welcome to my GitHub profile! I’m Rishabh, a final-year B.Tech student with a 
   </a>
 </div>
 
-
-Thank you for visiting my profile! Let's build the future together!😊 Happy coding!😊
-
+<div align="center">
+  Thank you for visiting my profile! Let's build the future together!😊 Happy coding!😊
+</div>
 
 
 
