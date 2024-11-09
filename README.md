@@ -35,6 +35,7 @@ Welcome to my GitHub profile! I’m Rishabh, a final-year B.Tech student with a 
 
 <h2 align="center">🔥Leetcode Info🔥<h2>  
 <p align="center">
+  <a href="https://leetcode.com/Rishabh7798/" target="_blank"><img src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" alt="badge gif" class="z-modal-6 h-[120px] w-[120px]">
   <a href="https://leetcode.com/Rishabh7798/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="badge gif" class="z-modal-6 h-[120px] w-[120px]">
 </p>
 <p align="center">
@@ -43,10 +44,9 @@ Welcome to my GitHub profile! I’m Rishabh, a final-year B.Tech student with a 
 
 <h2 align="center">📈GitHub Stats📈<h2>  
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=Rishabh7798&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Rishabh7798&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh7798&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
+  
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-giri-7798r/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:giririshabh98@gmail.com)
