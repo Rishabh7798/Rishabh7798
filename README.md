@@ -23,7 +23,6 @@ Welcome to my GitHub profile! I’m Rishabh, a final-year B.Tech student with a 
 
 ## 🚀 Technologies & Tools
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -37,7 +36,7 @@ Welcome to my GitHub profile! I’m Rishabh, a final-year B.Tech student with a 
 ## 🔥 Coding Streaks
 <h2 align="center">Leetcode Info<h2>  
 <p align="center">
-  <a href="https://leetcode.com/Rishabh7798/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/Rishabh7798/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png" alt="badge" class="m-auto block h-[60px] cursor-pointer" data-state="closed">
   <a href="https://leetcode.com/Rishabh7798/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/Rishabh7798/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/Rishabh7798/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
