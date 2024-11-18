@@ -54,7 +54,7 @@ Welcome to my GitHub profile! I’m Rishabh, a final-year B.Tech student with a 
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh7798&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
   
-## 📫Let's Connect📫
+## 🤝Let's Connect🤝
 <div align="center">
   <a href="https://www.linkedin.com/in/rishabh-giri-7798r/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
