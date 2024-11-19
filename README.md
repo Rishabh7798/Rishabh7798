@@ -49,7 +49,7 @@ Welcome to my GitHub profile! I’m Rishabh, a final-year B.Tech student with a 
 <a href="https://auth.geeksforgeeks.org/user/giririshabh98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="giririshabh98" height="30" width="40" /></a>
 </p>
 
-## 📈GitHub Stats📈
+## 📈GitHub Stats📉
 <div align=center>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh7798&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
