@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 Welcome to my GitHub profile! I’m Rishabh, a final-year B.Tech student with a keen interest in full-stack development, machine learning, and data analytics. Let's connect and build something amazing together! 
 
 ## 🌟About Me🌟
-- 🎓 **B.Tech Final Year Student**
-- 💻 Full-stack developer exploring **AI, data analytics**, and **gaming industry** opportunities.
-- 🚀 Building innovative projects like **RemediKonnect**, a MERN-based doctor appointment booking system.
-- 💡 Always learning and experimenting with new tech stacks and tools.
-- 🎯 Consistently solving problems on **LeetCode** and **GeeksforGeeks** to sharpen my programming skills.
+🎓 **B.Tech Final Year Student**
+💻 Full-stack developer exploring **AI, data analytics**, and **gaming industry** opportunities.
+🚀 Building innovative projects like **RemediKonnect**, a MERN-based doctor appointment booking system.
+💡 Always learning and experimenting with new tech stacks and tools.
+🎯 Consistently solving problems on **LeetCode** and **GeeksforGeeks** to sharpen my programming skills.
 
 ## 🚀Technologies & Tools🚀
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
