@@ -75,7 +75,7 @@ Welcome to my GitHub profile! I’m Rishabh, a final-year B.Tech student with a 
 </div>
 
 <div align="center">
-  Thank you for visiting my profile! Let's build the future together!😊 Happy coding!😊
+  Thank you for visiting my profile!😊 Happy coding!😊
 </div>
 
 
