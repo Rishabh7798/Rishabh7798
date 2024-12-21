@@ -43,12 +43,7 @@ Welcome to my GitHub profile! I’m Rishabh, a final-year B.Tech student with a 
 <p align="center">
     <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/Rishabh7798?theme=dark&font=Nunito&ext=heatmap" />  
 </p>
-<p align="center">
-    <img style="vertical-align: top; flex-grow: 1;" src="https://leetcard.jacoblin.cool/Rishabh7798?theme=dark&font=Supermercado%20One&ext=heatmap" />  
-</p>
-<p align="center">
-  
-</p>
+
 <p align="center">
 <a href="https://www.leetcode.com/rishabh7798" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rishabh7798" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/giririshabh98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="giririshabh98" height="30" width="40" /></a>
