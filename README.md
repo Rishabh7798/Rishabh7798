@@ -44,7 +44,7 @@ Welcome to my GitHub profile! I’m Rishabh, a final-year B.Tech student with a 
     <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/Rishabh7798?theme=dark&font=Nunito&ext=heatmap" />  
 </p>
 <p align="center">
-    <img style="vertical-align: top; flex-grow: 1;" src="https://leetcard.jacoblin.cool/Rishabh7798?theme=dark&font=Nunito&ext=heatmap" />  
+    <img style="vertical-align: top; flex-grow: 1;" src="https://leetcard.jacoblin.cool/Rishabh7798?theme=dark&font=Supermercado%20One" />  
 </p>
 <p align="center">
   
