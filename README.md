@@ -21,6 +21,9 @@ Welcome to my GitHub profile! I’m Rishabh, a final-year B.Tech student with a 
 💡 Always learning and experimenting with new tech stacks and tools.
 🎯 Consistently solving problems on **LeetCode** and **GeeksforGeeks** to sharpen my programming skills.
 
+<img align="centre" alt="Coding" width="400" src="https://giphy.com/embed/f3iwJFOVOwuy7K6FFw">
+<img align="centre" alt="Coding" width="400" src="https://giphy.com/gifs/Pluralsight-man-development-developer-f3iwJFOVOwuy7K6FFw">
+
 ## 🚀Technologies & Tools🚀
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -79,8 +82,7 @@ Welcome to my GitHub profile! I’m Rishabh, a final-year B.Tech student with a 
   Thank you for visiting my profile!😊 Happy coding!😊
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/f3iwJFOVOwuy7K6FFw">
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/Pluralsight-man-development-developer-f3iwJFOVOwuy7K6FFw">
+
 
 
 
