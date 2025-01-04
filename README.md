@@ -76,13 +76,12 @@ Welcome to my GitHub profile! I’m Rishabh, a final-year B.Tech student with a 
 </div>
 
 <div align="center">
-  <img alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW1uZGt5cnRwb2Y4YjZxZmxvcmF2MTJlbGgwNDh4ZnV0dnR5N3h6cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.webp">
-</div>
-
-<div align="center">
   Thank you for visiting my profile!😊 Happy coding!😊
 </div>
 
+<div align="center">
+  <img alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW1uZGt5cnRwb2Y4YjZxZmxvcmF2MTJlbGgwNDh4ZnV0dnR5N3h6cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.webp">
+</div>
 
 
 
