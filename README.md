@@ -33,6 +33,10 @@ Welcome to my GitHub profile! I’m Rishabh, a final-year B.Tech student with a 
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![IBM Watson](https://img.shields.io/badge/-IBM%20Watson-052FAD?style=flat-square&logo=ibm&logoColor=white)
 
+## Projects
+- [RemediKonnect-Doctor Appointment Website](https://github.com/Rishabh7798/RemediKonnect-Full-Stack) 
+- [PrimeWardrobe-ECommerce Website](https://github.com/Rishabh7798/PrimeWardrobe-Full-Stack)
+
 ## 🔥Coding Journey🔥
 <p align="center">
   <a href="https://leetcode.com/Rishabh7798/" target="_blank"><img src="https://leetcode.com/static/images/badges/2024/gif/2024-10.gif" alt="badge gif" cheight="100" width="100">
