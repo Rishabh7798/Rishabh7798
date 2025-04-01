@@ -42,10 +42,11 @@ Welcome to my GitHub profile! I’m Rishabh, a final-year B.Tech student with a 
 ## 🔥Coding Journey🔥
 <p align="center">
 <!--   <a href="https://leetcode.com/Rishabh7798/" target="_blank"><img src="https://leetcode.com/static/images/badges/2024/gif/2024-10.gif" alt="badge gif" cheight="100" width="100"> -->
-  <a href="https://leetcode.com/Rishabh7798/" target="_blank"><img src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif" alt="badge gif" cheight="100" width="100">
+<!--   <a href="https://leetcode.com/Rishabh7798/" target="_blank"><img src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif" alt="badge gif" cheight="100" width="100"> -->
   <a href="https://leetcode.com/Rishabh7798/" target="_blank"><img src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" alt="badge gif" cheight="100" width="100">
   <a href="https://leetcode.com/Rishabh7798/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/202501.gif" alt="badge gif" cheight="100" width="100">
   <a href="https://leetcode.com/Rishabh7798/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/202502.gif" alt="badge gif" cheight="100" width="100">
+  <a href="https://leetcode.com/Rishabh7798/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/202503.gif" alt="badge gif" cheight="100" width="100">
   <a href="https://leetcode.com/Rishabh7798/" target="_blank"><img src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" alt="badge gif" cheight="100" width="100">
   <a href="https://leetcode.com/Rishabh7798/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="badge gif" height="100" width="100">
   <a href="https://leetcode.com/Rishabh7798/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="badge gif" height="100" width="100">
